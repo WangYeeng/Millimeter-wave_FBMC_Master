@@ -1,5 +1,5 @@
 % =====================================================================    
-% (c) 2017 by Ying Wang, wangyingstu@163.com
+% (c) 2024 by Ying Wang, wangyingstu@163.com
 % =====================================================================    
 % This script calculates the Signal-to-Interference Ratio (SIR) for
 % different subcarrier spacings.
